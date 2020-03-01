@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-29T11:43:29.655Z</updated>
+  <updated>2020-02-29T08:44:22.479Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>my cv</title>
-    <link href="http://yoursite.com/2020/02/29/my-cv/"/>
-    <id>http://yoursite.com/2020/02/29/my-cv/</id>
-    <published>2020-02-29T11:40:00.000Z</published>
-    <updated>2020-02-29T11:43:29.655Z</updated>
-    
-    <content type="html"><![CDATA[<p>my name is binzhou</p><p>i am from China<br>/home/zeus/Pictures/wallpapers/a313e72321f2834a7c2e657f686a9276.png</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;my name is binzhou&lt;/p&gt;
-&lt;p&gt;i am from China&lt;br&gt;/home/zeus/Pictures/wallpapers/a313e72321f2834a7c2e657f686a9276.png&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
